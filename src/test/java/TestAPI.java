@@ -7,7 +7,6 @@ import static org.hamcrest.Matchers.is;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class TestAPI {
-
         /*
     curl 'http://demowebshop.tricentis.com/addproducttocart/details/16/1' \
     -H 'Accept: **' \
